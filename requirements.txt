@@ -1,0 +1,10 @@
+Flask
+pandas
+numpy
+pickle4
+gunicorn
+scikit-learn
+keras
+tensorflow
+scikit-image
+matplotlib
